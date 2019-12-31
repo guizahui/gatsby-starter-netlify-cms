@@ -1,14 +1,12 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: La petite coifferie
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Nélaëlle est la plus jolie des petites filles d'amour.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  En effet, ce n'est pas évident de trouver de gentille petites filles. Mais
+  c'est possible, car aujourd'hui je vis avec. Son prénom est magique. Il éveil
+  les syllabe, et ma joie de vivre lorsque je la vois. Ma petite fille.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +97,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
